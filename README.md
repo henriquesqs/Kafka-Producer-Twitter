@@ -1,6 +1,6 @@
 # Kafka-Producer-Twitter
 A Kafka producer using Twitter API to get access to tweets. 
-This is a project from [Apache Kafka for Beginners course](https://www.udemy.com/course/apache-kafka/) by Stephane Maarek
+This is a project from [Apache Kafka for Beginners course](https://www.udemy.com/course/apache-kafka/) by Stephane Maarek.
 
 ## Description
 This project creates a simple **[Apache Kafka](https://kafka.apache.org/) Producer** that searches for specific strings on tweets and prints all the public informations (provided by the API) about the found tweets. For example, if you set to search for **"soccer"**, you'll receive on terminal all tweets with the string **"soccer"** in it in **real-time**.
